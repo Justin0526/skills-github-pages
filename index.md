@@ -1,8 +1,10 @@
 ---
 title: Welcome to my blog
 ---
-Today is a good day
-Yesterday is not today
-Tomorrow will be yesterday
-Which day is not good day
-Every day is a good good day
+my-pages
+Today is a good day.
+Yesterday is not today.
+Tomorrow will become today.
+Which day is a good day?
+Every day is a good god day.
+
